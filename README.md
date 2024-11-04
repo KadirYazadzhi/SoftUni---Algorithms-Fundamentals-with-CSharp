@@ -40,6 +40,15 @@ Each section in this repository will include detailed solutions, optimized code 
 
 This course and repository are suitable for anyone comfortable with **variables**, **conditional statements**, **loops**, and **arrays**. The techniques shared here are fundamental and language-independent, making it perfect for those eager to strengthen their algorithmic skills and learn new problem-solving strategies.
 
+## 🛠️ How to Use
+1. Clone the repository to your local machine using the following command:
+`git clone https://github.com/KadirYazadzhi/SoftUni---Algorithms-Fundamentals-with-CSharp.git`
+2. Navigate to the desired task folder to view the C# files.
+3. If you encounter any issues or have suggestions for improvement, please open an issue or reach out to me via email.
+
+## ✉️ Contact Information
+If you have any questions, suggestions, or concerns, you can reach me via email at kadiryazadzhi@gmail.com.
+
 ---
 
 Join me on this learning journey, and feel free to explore and try out the solutions on your own. Happy coding! 😃
