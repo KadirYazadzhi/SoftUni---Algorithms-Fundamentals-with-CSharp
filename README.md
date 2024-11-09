@@ -22,7 +22,7 @@ By exploring the solutions in this repository, you will:
 This repository includes solutions and insights into each topic covered in the course:
 
 1. 📑 **Resources**  
-2. 🌀 **Recursion and Backtracking** [➤](./Recursion&#32;and&#32;Backtracking.md)
+2. 🌀 **Recursion and Backtracking** [➤](./Recursion&#32;and&#32;Backtracking/Recursion&#32;and&#32;Backtracking.md)
 3. 🔢 **Combinatorial Problems**  
 4. 📝 **Exercise: Recursion and Combinatorial Algorithms**  
 5. 🔍 **Searching, Sorting, and Greedy Algorithms**  
