@@ -51,7 +51,8 @@ Different cases:
 
 ### What is Recursion?
 
-Recursion is a method where the solution depends on solutions to smaller instances of the same problem. It typically has:
+**Recursion** is a method where the solution depends on solutions to smaller instances of the same problem. It typically has:
+
 - **Base Case**: Condition to stop recursion
 - **Recursive Call**: Function calls itself with modified arguments
 
@@ -81,7 +82,7 @@ static long GetFactorial(int num) {
 
 ## 🔙 Backtracking
 
-Backtracking is a class of algorithms that finds all possible solutions by building up solutions incrementally and removing those that fail to satisfy constraints.
+**Backtracking** is a class of algorithms that finds all possible solutions by building up solutions incrementally and removing those that fail to satisfy constraints.
 
 ### Example: The 8 Queens Problem ♛
 
@@ -112,7 +113,7 @@ When to use each approach:
 
 ### ⚠️ Warning: Infinite Recursion
 
-Recursion without a proper base case can cause stack overflow. Always ensure recursive functions have a termination condition.
+Recursion without a proper base case can cause **stack overflow**. Always ensure recursive functions have a termination condition.
 
 ## 📚 Summary
 Key Takeaways:
@@ -125,7 +126,6 @@ Key Takeaways:
 ## ❓ Questions?
 
 For further information, explore:
-- SoftUni
-- Educational Partners
+- [SoftUni](softuni.bg)
 
- This guide is powered by insights from SoftUni's presentation on Algorithms, Recursion, and Backtracking.
+ > This guide is powered by insights from SoftUni's presentation on Algorithms, Recursion, and Backtracking.
