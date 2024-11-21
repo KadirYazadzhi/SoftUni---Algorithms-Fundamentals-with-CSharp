@@ -204,3 +204,32 @@ class Program {
 - **Permutations**: Arrangement of elements.
 - **Variations**: Limited slots, order matters.
 - **Combinations**: Selection of elements, order doesn't matter.
+
+
+## 💬 Feedback & Contribution
+
+Contributions and feedback are welcome!
+
+- 💡 Have ideas for improvement? Open an issue.
+- 🛠️ Want to contribute? Submit a pull request.
+
+
+## 👨‍💻 Author
+
+If you have any questions or suggestions, feel free to reach out at:
+
+- 📧 Email: kadiryazadzhi@gmail.com
+- 🌐 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
+
+## ❓ Questions?
+
+For further information, explore:
+- [SoftUni](softuni.bg)
+
+ > This guide is powered by insights from SoftUni's
+> presentation on Combinatorial Problems.
+
+---
+
+Join me on this learning journey, and feel free to explore and try out the solutions on your own. Happy coding! 😃
+⭐ If you found this project helpful, please give it a star!
