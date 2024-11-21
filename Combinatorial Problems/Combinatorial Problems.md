@@ -4,26 +4,48 @@
 ## 📜 **Table of Contents**  
 1. 🚀 **Introduction**  
 2. 🔄 **Permutations**  
+    - 🔑 Definition  
+    - 👩‍💻 Code Example  
 3. 🌀 **Variations**  
+    - 🔑 Definition  
+    - 👩‍💻 Code Example  
 4. 🤝 **Combinations**  
+    - 🔑 Definition  
+    - 👩‍💻 Code Example  
 5. 🧮 **N Choose K Count**  
-6. 💻 **Practical Example**
+    - 🔢 Formula  
+6. 💻 **Practical Example**  
+7. 📊 **Summary**
 
 
 ## 🚀 **Introduction**  
 
-Combinatorial problems involve arranging, selecting, or counting elements in specific ways. Applications range from mathematics to computer science and beyond!  
+Combinatorial problems involve arranging, selecting, or counting elements in specific ways. They are widely used in areas such as:  
+
+- Mathematics  
+- Computer science  
+- Cryptography  
+- Probability and statistics  
 
 ### 💡 **Key Topics**  
-- **Permutations**: Order matters.  
-- **Variations**: Order matters, limited by slots.  
-- **Combinations**: Order doesn't matter.  
+- **Permutations**: Arrangement where the order matters.  
+- **Variations**: Arrangement with limited slots, where the order matters.  
+- **Combinations**: Selection of elements where the order does not matter.  
 
 
 ## 🔄 **Permutations**  
 
 ### 🔑 **Definition**  
-Permutations are all possible arrangements of a set.  
+Permutation is defined as a mathematical concept that determines the number of possible arrangements for a specific set of elements. Simply put, it represents the different ways in which data can be ordered, typically taken from a list. 
+
+### 📝 **Theory**  
+- Total number of permutations for a set of size `n` is calculated as:  
+\[
+P(n) = n!
+\]
+- Permutations can be:  
+  - **Without repetition** (unique elements).  
+  - **With repetition** (some elements may repeat).  
 
 ### 👩‍💻 **Code Example**: *Generate Permutations*  
 
@@ -44,10 +66,23 @@ static void Permute(int index) {
 }
 ```
 
-## 🌀 **Variations**  
+## 🌀 **Variations**
 
 ### 🔑 **Definition**  
-Variations are subsets of elements where the order matters.  
+Variations represent a way of selecting a subset of elements from a larger set, where the order of the elements in the subset matters. The size of the subset is fixed, meaning only a specific number of elements are chosen. Variations are commonly used in problems where the arrangement of items is crucial, such as scheduling, cryptography, or creating unique sequences.
+
+### 📝 **Theory**  
+
+1. **Total Number of Variations**  
+The total number of variations is calculated using the formula:  
+\[
+V(n, k) = \frac{n!}{(n-k)!}
+\]  
+
+2. **Types of Variations**  
+- **Without repetition**: Each element is used at most once in the subset.  
+- **With repetition**: Elements can be reused multiple times within the subset.  
+
 
 ### 👩‍💻 **Code Example**: *Generate Variations*  
 
@@ -70,8 +105,20 @@ static void Variations(int index) {
 
 ## 🤝 **Combinations**
 
-### 🔑 **Definition**
-Combinations are subsets where order does not matter.
+### 🔑 **Definition**  
+Combinations represent a method of selecting a subset of elements from a larger set, where the order of the elements in the subset does not matter. Unlike variations, the arrangement of the selected elements is irrelevant, making combinations ideal for scenarios such as lottery draws, team selections, or grouping items. The subsets are unique regardless of how the elements are arranged.
+
+### 📝 **Theory**  
+
+1. **Total Number of Combinations**  
+The total number of combinations is calculated using the formula:  
+\[
+C(n, k) = \frac{n!}{k! \cdot (n-k)!}
+\]  
+
+2. **Key Difference from Variations**  
+In combinations, the order of the elements within a subset does not matter, while in variations, the arrangement is significant.  
+
 
 ### 👩‍💻 **Code Example**: *Generate Combinations*
 
@@ -87,6 +134,21 @@ static void Combinations(int index, int start) {
     }
 }
 ```
+
+## 🧮 **N Choose K Count**
+
+### 🔑 **Definition**  
+The "N Choose K" problem, also known as the binomial coefficient, represents the number of ways to select `k` elements from a set of `n` elements, where the order of selection does not matter. This concept is fundamental in combinatorics and is used in various fields, including probability theory, statistics, and algorithm design. It calculates how many unique combinations can be formed without considering the arrangement of the chosen elements.
+
+### 🔢 **Formula**  
+The number of ways to choose `k` elements from a set of `n` elements is calculated as:  
+\[
+C(n, k) = \frac{n!}{k! \cdot (n-k)!}
+\]  
+
+### 🔑 **Pascal's Triangle**  
+The binomial coefficients can also be derived using Pascal's Triangle. Each entry in the triangle is the sum of the two entries directly above it. This property simplifies the computation of coefficients in scenarios where factorial calculation is not practical.
+
 
 ## 💻 Practical Example: Girls and Boys Combinations
 
