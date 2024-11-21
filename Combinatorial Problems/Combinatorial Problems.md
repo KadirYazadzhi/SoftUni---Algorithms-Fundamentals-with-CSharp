@@ -1,6 +1,6 @@
 # 🎲 **Combinatorial Problems**
 
-Welcome to an introduction to Combinatorial Problems! 🎲 This guide explores the key concepts of permutations, variations, and combinations, with practical examples and essential formulas. Whether you're solving puzzles, designing algorithms, or analyzing probabilities, combinatorics has you covered. Let's dive into this exciting topic together! 🚀
+Welcome to an introduction to **Combinatorial Problems**! 🎲 This guide explores the key concepts of permutations, variations, and combinations, with practical examples and essential formulas. Whether you're solving puzzles, designing algorithms, or analyzing probabilities, combinatorics has you covered. Let's dive into this exciting topic together! 🚀
 
 
 ## 📜 **Table of Contents**  
@@ -24,10 +24,10 @@ Welcome to an introduction to Combinatorial Problems! 🎲 This guide explores t
 
 Combinatorial problems involve arranging, selecting, or counting elements in specific ways. They are widely used in areas such as:  
 
-- Mathematics  
-- Computer science  
-- Cryptography  
-- Probability and statistics  
+- **Mathematics**  
+- **Computer science**  
+- **Cryptography**  
+- **Probability and statistics**  
 
 ### 💡 **Key Topics**  
 - **Permutations**: Arrangement where the order matters.  
@@ -38,7 +38,7 @@ Combinatorial problems involve arranging, selecting, or counting elements in spe
 ## 🔄 **Permutations**  
 
 ### 🔑 **Definition**  
-Permutation is defined as a mathematical concept that determines the number of possible arrangements for a specific set of elements. Simply put, it represents the different ways in which data can be ordered, typically taken from a list. 
+**Permutation** is defined as a mathematical concept that determines the number of possible arrangements for a specific set of elements. Simply put, it represents the different ways in which data can be ordered, typically taken from a list. 
 
 ### 📝 **Theory**  
 - Total number of permutations for a set of size `n` is calculated as:  
@@ -71,7 +71,7 @@ static void Permute(int index) {
 ## 🌀 **Variations**
 
 ### 🔑 **Definition**  
-Variations represent a way of selecting a subset of elements from a larger set, where the order of the elements in the subset matters. The size of the subset is fixed, meaning only a specific number of elements are chosen. Variations are commonly used in problems where the arrangement of items is crucial, such as scheduling, cryptography, or creating unique sequences.
+**Variations** represent a way of selecting a subset of elements from a larger set, where the order of the elements in the subset matters. The size of the subset is fixed, meaning only a specific number of elements are chosen. Variations are commonly used in problems where the arrangement of items is crucial, such as scheduling, cryptography, or creating unique sequences.
 
 ### 📝 **Theory**  
 
@@ -108,7 +108,7 @@ static void Variations(int index) {
 ## 🤝 **Combinations**
 
 ### 🔑 **Definition**  
-Combinations represent a method of selecting a subset of elements from a larger set, where the order of the elements in the subset does not matter. Unlike variations, the arrangement of the selected elements is irrelevant, making combinations ideal for scenarios such as lottery draws, team selections, or grouping items. The subsets are unique regardless of how the elements are arranged.
+**Combinations** represent a method of selecting a subset of elements from a larger set, where the order of the elements in the subset does not matter. Unlike variations, the arrangement of the selected elements is irrelevant, making combinations ideal for scenarios such as lottery draws, team selections, or grouping items. The subsets are unique regardless of how the elements are arranged.
 
 ### 📝 **Theory**  
 
