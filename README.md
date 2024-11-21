@@ -23,7 +23,7 @@ This repository includes solutions and insights into each topic covered in the c
 
 1. 📑 **Resources**  
 2. 🌀 **Recursion and Backtracking** [➤](./Recursion&#32;and&#32;Backtracking/Recursion&#32;and&#32;Backtracking.md)
-3. 🔢 **Combinatorial Problems**  
+3. 🔢 **Combinatorial Problems** [➤](./Combinatorial&#32;Problems/Combinatorial&#32;Problems.md)
 4. 📝 **Exercise: Recursion and Combinatorial Algorithms**  
 5. 🔍 **Searching, Sorting, and Greedy Algorithms**  
 6. 📉 **Graph Theory, Traversal, and Shortest Paths**  
