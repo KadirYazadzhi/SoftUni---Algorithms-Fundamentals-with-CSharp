@@ -221,15 +221,14 @@ If you have any questions or suggestions, feel free to reach out at:
 - 📧 Email: kadiryazadzhi@gmail.com
 - 🌐 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
 
+
 ## ❓ Questions?
 
 For further information, explore:
 - [SoftUni](softuni.bg)
 
- > This guide is powered by insights from SoftUni's
-> presentation on Combinatorial Problems.
+ > This guide is powered by insights from SoftUni's presentation on Combinatorial Problems.
 
 ---
 
 Join me on this learning journey, and feel free to explore and try out the solutions on your own. Happy coding! 😃
-⭐ If you found this project helpful, please give it a star!
