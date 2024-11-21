@@ -1,4 +1,6 @@
-# 🎲 **Combinatorial Problems with Code Examples**
+# 🎲 **Combinatorial Problems**
+
+Welcome to an introduction to Combinatorial Problems! 🎲 This guide explores the key concepts of permutations, variations, and combinations, with practical examples and essential formulas. Whether you're solving puzzles, designing algorithms, or analyzing probabilities, combinatorics has you covered. Let's dive into this exciting topic together! 🚀
 
 
 ## 📜 **Table of Contents**  
