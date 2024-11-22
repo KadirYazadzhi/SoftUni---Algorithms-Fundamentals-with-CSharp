@@ -123,9 +123,28 @@ Key Takeaways:
 - **Backtracking** is suitable for problems involving multiple potential solutions, like the 8-Queens puzzle.
 - Choose **recursion** or **iteration** based on the nature of the problem.
 
+## 💬 Feedback & Contribution
+
+Contributions and feedback are welcome!
+
+- 💡 Have ideas for improvement? Open an issue.
+- 🛠️ Want to contribute? Submit a pull request.
+
+
+## 👨‍💻 Author
+
+If you have any questions or suggestions, feel free to reach out at:
+
+- 📧 Email: kadiryazadzhi@gmail.com
+- 🌐 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
+
 ## ❓ Questions?
 
 For further information, explore:
 - [SoftUni](softuni.bg)
 
  > This guide is powered by insights from SoftUni's presentation on Algorithms, Recursion, and Backtracking.
+
+---
+
+Join me on this learning journey, and feel free to explore and try out the solutions on your own. Happy coding! 😃
