@@ -16,7 +16,7 @@ public class Program {
             return;
         }
         
-        Console.WriteLine(numbers[numberIndex]);
+        Console.WriteLine($"The number is found at index {numberIndex}");
     }
 
     private static int LinearSearch(int target) {
