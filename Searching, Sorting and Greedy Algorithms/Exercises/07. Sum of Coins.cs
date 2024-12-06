@@ -40,7 +40,7 @@ class Program {
         Console.WriteLine($"Number of coins to take: {totalCoins}");
 
         foreach ((int coinType, int coinCount) in selectedCoins) {
-            Console.WriteLine($"{coinType} coin(s) with value {coinCount}");
+            Console.WriteLine($"{coinCount} coin(s) with value {coinType}");
         }
     }
 }
