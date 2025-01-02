@@ -25,7 +25,7 @@ This repository includes solutions and insights into each topic covered in the c
 2. 🌀 **Recursion and Backtracking** [➤](./Recursion&#32;and&#32;Backtracking/Recursion&#32;and&#32;Backtracking.md)
 3. 🔢 **Combinatorial Problems** [➤](./Combinatorial&#32;Problems/Combinatorial&#32;Problems.md)
 4. 📝 **Exercise: Recursion and Combinatorial Algorithms**  
-5. 🔍 **Searching, Sorting, and Greedy Algorithms**  
+5. 🔍 **Searching, Sorting, and Greedy Algorithms** [➤](./Searching,&#32;Sorting&#32;and&#32;Greedy&#32;Algorithms/Searching,&#32;Sorting&#32;and&#32;Greedy&#32;Algorithms.md)
 6. 📉 **Graph Theory, Traversal, and Shortest Paths**  
 7. 📝 **Exercise: Graph Theory, Traversal, and Shortest Paths**  
 8. 📈 **Introduction to Dynamic Programming**  
