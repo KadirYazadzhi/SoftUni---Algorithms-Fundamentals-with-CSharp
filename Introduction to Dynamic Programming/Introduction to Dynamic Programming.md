@@ -176,3 +176,30 @@ int LongestCommonSubsequence(string s1, string s2) {
 - Mastering DP allows you to solve a wide range of complex problems efficiently.
 
 > Embrace the power of DP and start solving complex problems efficiently! 🚀
+
+
+## 💬 Feedback & Contribution
+
+Contributions and feedback are welcome!
+
+- 💡 Have ideas for improvement? Open an issue.
+- 🛠️ Want to contribute? Submit a pull request.
+
+
+## 👨‍💻 Author
+
+If you have any questions or suggestions, feel free to reach out at:
+
+- 📧 Email: kadiryazadzhi@gmail.com
+- 🌐 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
+
+## ❓ Questions?
+
+For further information, explore:
+- [SoftUni](softuni.bg)
+
+ > This guide is powered by insights from SoftUni's presentation on Introduction to Dynamic Programming.
+
+---
+
+Join me on this learning journey, and feel free to explore and try out the solutions on your own. Happy coding! 😃
