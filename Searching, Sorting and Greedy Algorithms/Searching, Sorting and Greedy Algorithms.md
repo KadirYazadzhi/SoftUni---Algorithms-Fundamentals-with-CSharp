@@ -474,7 +474,7 @@ If you have any questions or suggestions, feel free to reach out at:
 For further information, explore:
 - [SoftUni](softuni.bg)
 
- > This guide is powered by insights from SoftUni's presentation on Algorithms, Recursion, and Backtracking.
+ > This guide is powered by insights from SoftUni's presentation on Searching, Sorting and Greedy Algorithms.
 
 ---
 
